@@ -764,6 +764,6 @@ $this->title = 'Home | E-Shopper';
         </div>
     </div>
 </section>
-<script>
-    $( ".catalog" ).dcAccordion();
-</script>
+<!--<script>-->
+<!--    $( ".catalog" ).dcAccordion();-->
+<!--</script>-->
